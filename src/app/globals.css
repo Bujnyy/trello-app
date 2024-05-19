@@ -4,36 +4,36 @@
 
 @layer base {
   :root {
-    --gradient: linear-gradient(to top left, #e6b980, #eacda3);
+    --gradient: linear-gradient(to top left, #e6b600, #eacda3);
 
-    --background: 36 43.550000000000004% 5.6%;
-    --foreground: 36 6.7% 98.5%;
+    --background: 50 65% 3.6%;
+    --foreground: 50 10% 97.25%;
 
-    --muted: 36 33.5% 21%;
-    --muted-foreground: 36 6.7% 57%;
+    --muted: 50 50% 13.5%;
+    --muted-foreground: 50 10% 54.5%;
 
-    --popover: 36 51.6% 9.1%;
-    --popover-foreground: 36 6.7% 98.5%;
+    --popover: 50 45% 5.8500000000000005%;
+    --popover-foreground: 50 10% 97.25%;
 
-    --card: 36 51.6% 9.1%;
-    --card-foreground: 36 6.7% 98.5%;
+    --card: 50 45% 5.8500000000000005%;
+    --card-foreground: 50 10% 97.25%;
 
-    --border: 36 33.5% 21%;
-    --input: 36 33.5% 21%;
+    --border: 50 50% 13.5%;
+    --input: 50 50% 13.5%;
 
-    --primary: 36 67% 70%;
-    --primary-foreground: 36 6.7% 7%;
+    --primary: 50 100% 45%;
+    --primary-foreground: 50 10% 97.25%;
 
-    --secondary: 36 33.5% 21%;
-    --secondary-foreground: 36 6.7% 98.5%;
+    --secondary: 50 50% 13.5%;
+    --secondary-foreground: 50 10% 97.25%;
 
-    --accent: 36 33.5% 21%;
-    --accent-foreground: 36 6.7% 98.5%;
+    --accent: 50 50% 13.5%;
+    --accent-foreground: 50 10% 97.25%;
 
     --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 36 6.7% 98.5%;
+    --destructive-foreground: 50 10% 97.25%;
 
-    --ring: 36 67% 70%;
+    --ring: 50 100% 45%;
 
     --radius: 0.5rem;
   }

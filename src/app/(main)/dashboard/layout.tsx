@@ -1,5 +1,3 @@
-import Navigation from "@/components/site/navigation";
-
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -7,10 +5,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>
-        <Navigation />
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   );
 }
