@@ -10,7 +10,7 @@ type Props = {
 
 const Navigation = ({ user }: Props) => {
   return (
-    <div className="fixed top-0 right-0 left-0 p-4 flex items-center justify-between z-10">
+    <div className="fixed top-0 right-0 left-0 py-4 px-48 flex items-center justify-between z-10">
       <aside className="flex items-center gap-2">
         <Link href={"/"}>
           <span className="text-xl font-bold">Trello-app.</span>
